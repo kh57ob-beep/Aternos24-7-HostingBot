@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "raidon75.aternos.me:64144",
+    "port": 64144,
     "version": "",
     "try-creative": false
   },
