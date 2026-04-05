@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "raidon75.aternos.me:64144",
-    "port": 64144,
+    "ip": "raidon75-9mdT.aternos.me",
+    "port": 23675,
     "version": "",
     "try-creative": false
   },
